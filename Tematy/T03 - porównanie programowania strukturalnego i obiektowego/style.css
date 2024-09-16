@@ -1,0 +1,35 @@
+* {
+    font-family: Arial;
+    color: white;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+   height: 100px;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+li {
+    font-size: 1.1em;
+}
+
+
+.notatki {
+    background-color: blue;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 0.1em;
+}
+
+.notatki h2 {
+    text-align: center;
+    font-size: 2em;
+}
